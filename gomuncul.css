@@ -197,3 +197,66 @@ p{
     width: 450px;
     height: auto;
 }
+
+@media screen and (max-width: 500px){
+    .u {
+        width: 100px;
+        height: 100px;
+        position: absolute;
+        left: 10px;
+        top: 40px;
+    }
+
+    #h1{
+        position:absolute;
+        left: 50px;
+    }
+
+    .popa {
+        display: inline-block;
+        margin-left: 100px;
+        margin-top: 50px;
+    }
+
+    .popa {
+        outline-color: white;
+        position: absolute;
+        left: 40px;
+        top: 260px;
+        width: 100px;
+        height: 120px;
+    }
+
+    .oxxxy {
+        position: absolute;
+        top: 200px;
+        left: 0px;
+        transform: scaleX(-1);
+        width: 370px;
+        height: auto;
+    }
+
+    .ox1 {
+        position: absolute;
+        top: 400px;
+        left: 0px;
+        width: 120px;
+        height: auto;
+    }
+    .ox2 {
+        position: absolute;
+        top: 400px;
+        left: 250px;
+        width: 120px;
+        height: auto;
+    }
+    .article {
+        display: none;
+    }
+    .article-text {
+        font-size: 7px;
+        position: absolute;
+        top: 180px;
+        left: 170px;
+    }
+}
