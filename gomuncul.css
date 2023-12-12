@@ -157,3 +157,40 @@ p{
     width: 200px;
     height: 200px;
 }
+
+.article {
+    position: absolute;
+    top: 1000px;
+    left: 900px;
+    font-size: 40px;
+}
+
+.oxxxy {
+    position: absolute;
+    top: 10px;
+    left: 720px;
+    transform: scaleX(-1);
+    width: 1300px;
+    height: auto;
+}
+
+.ox1 {
+    position: absolute;
+    top: 900px;
+    left: 590px;
+}
+
+.ox2 {
+    position: absolute;
+    top: 900px;
+    left: 1760px;
+    transform: scaleX(-1);
+}
+
+.labe {
+    position: absolute;
+    top: 350px;
+    left: 1150px;
+    width: 450px;
+    height: auto;
+}
