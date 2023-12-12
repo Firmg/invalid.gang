@@ -119,8 +119,11 @@ p{
     transform: rotate(-50deg);
 }
 
-.popa{
-    outline-color: white; 
+.popa {
+    outline-color: white;
+    position: absolute;
+    left: 1000px;
+    top: 300px;
 }
 
 .n{
